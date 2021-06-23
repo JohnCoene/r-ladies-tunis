@@ -6,3 +6,4 @@ __Useful Links:__
 
 - [Slides](https://john-coene.com/talks/r-ladies-tunis)
 - [RStudio Cloud](https://rstudio.cloud/project/2615039)
+- [Toastify.js](https://github.com/apvarun/toastify-js)
