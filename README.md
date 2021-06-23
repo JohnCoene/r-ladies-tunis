@@ -1,5 +1,8 @@
 # Examples
 
-Examples shiny applications using JavaScript.
+Examples shiny applications using JavaScript for R Ladies Tunis.
 
-[Slides](https://john-coene.com/talks/r-ladies-tunis)
+__Useful Links:__
+
+- [Slides](https://john-coene.com/talks/r-ladies-tunis)
+- [RStudio Cloud](https://rstudio.cloud/project/2615039)
